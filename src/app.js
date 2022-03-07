@@ -1,4 +1,5 @@
 import axios from 'axios';
+import 'regenerator-runtime'
 import { jsPDF } from 'jspdf';
 
 import './components/nav-bar.js';
